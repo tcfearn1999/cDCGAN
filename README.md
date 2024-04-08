@@ -5,4 +5,4 @@ Input is FashionMNIST data
 
 
 Sample Ouput
-![Generated after training for 300 epochs](cDCGAN/ouput/Ouput_300.png)
+![Generated after training for 300 epochs](~/ouput/Ouput_300.png)
