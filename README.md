@@ -29,6 +29,6 @@ python fashion_mnist_cgan.py
 
 4. Once training is complete, the trained generator model will be saved as 'cgan_generator.keras' file.
 
-5.After training, the script will be able to generate output images. Here's an example of the generated output:
+5. After training, the script will be able to generate output images. Here's an example of the generated output:
 
 ![Generated after training for 300 epochs](/ouput/Ouput_300.png)
