@@ -28,7 +28,8 @@ python fashion_mnist_cgan.py
 3. The script will train the CGAN model using the Fashion MNIST dataset. During training, it will display the loss values for the discriminator and the generator.
 
 *sample output*
+
 ![Generated after training for 300 epochs](/ouput/Ouput_300.png)
 
 4. Once training is complete, the trained generator model will be saved as 'cgan_generator.keras' file.
-```
+
